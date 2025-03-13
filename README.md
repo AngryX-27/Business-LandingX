@@ -4,7 +4,7 @@ Business LandingX is a basic business website created by [AngryX](https://github
 
 ## Preview
 
-[![Business LandingX Preview](Картинка)](https://angryx-27.github.io/Business-LandingX/)
+[![Business LandingX Preview](https://ltdfoto.ru/images/2025/03/13/SNIMOK-EKRANA-2025-03-13-V-15.09.11.png)](https://angryx-27.github.io/Business-LandingX/)
 
 **[View Live Preview](https://angryx-27.github.io/Business-LandingX/)**
 
@@ -56,7 +56,7 @@ What makes this template particularly valuable is the combination of modern desi
 
 ## Предварительный просмотр
 
-[![Предварительный просмотр Бизнес LandingX](Картинка)](https://angryx-27.github.io/Business-LandingX/)
+[![Предварительный просмотр Бизнес LandingX](https://ltdfoto.ru/images/2025/03/13/SNIMOK-EKRANA-2025-03-13-V-15.09.11.png)](https://angryx-27.github.io/Business-LandingX/)
 
 **[Просмотр в режиме реального времени](https://angryx-27.github.io/Business-LandingX/)**
 
