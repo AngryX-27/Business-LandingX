@@ -4,9 +4,9 @@ Business LandingX is a basic business website created by [AngryX](https://github
 
 ## Preview
 
-[![Business LandingX Preview](Картинка)](ссылка на сайт)
+[![Business LandingX Preview](Картинка)](https://angryx-27.github.io/Business-LandingX/)
 
-**[View Live Preview](ссылка на сайт)**
+**[View Live Preview](https://angryx-27.github.io/Business-LandingX/)**
 
 ## Business LandingX - Website Template
 This project is a professional business website template built with Bootstrap 5, designed to showcase a business in a modern and responsive way. It's a clean, well-structured foundation that can be easily customized for any company or service.
@@ -56,9 +56,9 @@ What makes this template particularly valuable is the combination of modern desi
 
 ## Предварительный просмотр
 
-[![Предварительный просмотр Бизнес LandingX](Картинка)](ссылка на сайт)
+[![Предварительный просмотр Бизнес LandingX](Картинка)](https://angryx-27.github.io/Business-LandingX/)
 
-**[Просмотр в режиме реального времени](ссылка на сайт)**
+**[Просмотр в режиме реального времени](https://angryx-27.github.io/Business-LandingX/)**
 
 ## Business LandingX - Шаблон бизнес-сайта
 Этот проект представляет собой профессиональный шаблон бизнес-сайта, созданный на Bootstrap 5, разработанный для презентации бизнеса в современном и адаптивном виде. Это чистая, хорошо структурированная основа, которую можно легко настроить для любой компании или сервиса.
