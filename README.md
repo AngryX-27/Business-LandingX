@@ -46,6 +46,13 @@ This template provides an excellent starting point that can be tailored to:
 
 What makes this template particularly valuable is the combination of modern design principles with a solid technical foundation, ensuring that any business website built on it will be both visually appealing and technically sound.
 
+## Project Maintainers
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AngryX-27"><img src="https://avatars.githubusercontent.com/u/200900751?u=78819056ffb29fc0304de5f7e949203616343b8e&v=4" width="100px;" alt=""/><br /><sub><b>Grigoriy AngryX</b></sub></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -97,3 +104,11 @@ What makes this template particularly valuable is the combination of modern desi
 - Расширения функциональности с помощью дополнительного JavaScript
 
 Особую ценность этому шаблону придает сочетание современных принципов дизайна с солидной технической основой, что гарантирует, что любой бизнес-сайт, построенный на его основе, будет как визуально привлекательным, так и технически надежным.
+
+## Руководители проекта
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AngryX-27"><img src="https://avatars.githubusercontent.com/u/200900751?u=78819056ffb29fc0304de5f7e949203616343b8e&v=4" width="100px;" alt=""/><br /><sub><b>Григорий AngryX</b></sub></a></td>
+  </tr>
+</table>
